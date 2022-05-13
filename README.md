@@ -2,4 +2,4 @@
 Repository just to showcase Git and GitHub functionalities.
 
 ## Submit changes
-We are happy to receive pull requests!
+We are super happy to receive pull requests!
